@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+class ThrowDemo
+{
+	static void get()
+	{
+		try
+		{
+			System.out.println("Get value ");
+			throw new NullPointer Exception("Exception Caught");
+			
+		}
+	}
